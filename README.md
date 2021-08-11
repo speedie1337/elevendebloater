@@ -1,19 +1,6 @@
 ## elevendebloater
 
-  _______ _     _           _      _     _             _             
- |__   __| |   (_)         | |    | |   | |           | |            
-    | |  | |__  _ ___    __| | ___| |__ | | ___   __ _| |_ ___ _ __  
-    | |  | '_ \| / __|  / _` |/ _ \ '_ \| |/ _ \ / _` | __/ _ \ '__| 
-    | |  | | | | \__ \ | (_| |  __/ |_) | | (_) | (_| | ||  __/ |    
-    |_|  |_| |_|_|___/  \__,_|\___|_.__/|_|\___/ \__,_|\__\___|_|    
-                | |        | |   | |             \ \                 
-  ___ _   _  ___| | _____  | |__ | |___      __ (_) |                
- / __| | | |/ __| |/ / __| | '_ \| __\ \ /\ / /   | |                
- \__ \ |_| | (__|   <\__ \ | |_) | |_ \ V  V /   _| |                
- |___/\__,_|\___|_|\_\___/ |_.__/ \__| \_/\_/   (_) |                
-                                                 /_/                 
-                                                                     
-
+![image](https://user-images.githubusercontent.com/71722170/129067392-e7793f30-9adc-4518-88d3-86d577da7d3b.png)
 
 Kinda terrible "debloater" for Windows 11 that relies on the App Installer and "winget"
 Made this just because I had some free time and was fucking around with 11 build .100
