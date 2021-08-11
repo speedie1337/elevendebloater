@@ -9,7 +9,6 @@ Made this just because I had some free time and was fucking around with 11 build
 *Very easy to customize depending on what you want to delete & what to keep*
 *Can easily be fixed when more shit is added to Windows 11.*
 *Batch script so the "source" is always public*
-*Doesn't require admin*
 
 ## Cons 
 *Doesn't work with Windows 10 and earlier unless you manually install winget (will include an installer later)*
