@@ -17,4 +17,10 @@ Made this just because I had some free time and was fucking around with 11 build
 *Requires modification to the script if you want literally any customization*
 *Maybe messy*
 
+How to use (Simple)
+Download the latest script from well, the latest release and run it. Then just follow the on screen instructions.
+## NOTE: This will delete all the UWP apps that aren't critical for the system to boot.
+## Any Win32 programs and batch/powershell as well as third party and official UWP apps installed after will still work.
 
+How to use (Advanced maybe)
+Same as above but if you wanna disable something, just remove the line from the script. Edit with notepad or whatever you want.
