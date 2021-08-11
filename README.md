@@ -25,4 +25,4 @@ Download the latest script from well, the latest release and run it. Then just f
 How to use (Advanced maybe)
 Same as above but if you wanna disable something, just remove the line from the script. Edit with notepad or whatever you want.
 
-## NOTE: I am not responsible for any data loss caused by this script. I have tested this on many Windows 11 installs and even use it on my main install but please have ## common sense. Thank you!
+### NOTE: I am not responsible for any data loss caused by this script. I have tested this on many Windows 11 installs and even use it on my main install but please have ### common sense. Thank you!
