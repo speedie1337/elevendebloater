@@ -14,16 +14,15 @@ Made this just because I had some free time and was fucking around with 11 build
 - Requires modification to the script if you want customization
 - Maybe messy code
 
-How to use (Simple)
+### How to use (Simple)
 Download the latest script from well, the latest release and run it. Then just follow the on screen instructions.
-#### NOTE: This will delete all the UWP apps that aren't critical for the system to boot.
-#### Any Win32 programs and batch/powershell as well as third party and official UWP apps installed after will still work.
 
-Common problems (and the solution)
+### Common problems (and the solution)
 (1) Winget is available, you run the debloater but nothing gets removed
+
 Try opening cmd, running winget list and then if it asks you to agree to something, agree to it.
 
-How to use (Advanced maybe)
+### How to use (Advanced maybe)
 Same as above but if you wanna disable something, just change "true" to "false" as the comments tell you to do.
 
 ### NOTE: I am not responsible for any data loss caused by this script. I have tested this on many Windows 11 installs and even use it on my main install but please have  common sense. Thank you!
