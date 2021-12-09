@@ -14,13 +14,11 @@ Made this just because I had some free time and was fucking around with 11 build
 - Requires modification to the script if you want customization
 - Maybe messy code
 
+### Before running
+Please run "winget list" in CMD and accept the terms. Otherwise nothing will be deleted.
+
 ### How to use (Simple)
 Download the latest script from well, the latest release and run it. Then just follow the on screen instructions.
-
-### Common problems (and the solution)
-(1) Winget is available, you run the debloater but nothing gets removed
-
-Try opening cmd, running winget list and then if it asks you to agree to something, agree to it.
 
 ### How to use (Advanced maybe)
 Same as above but if you wanna disable something, just change "true" to "false" as the comments tell you to do.
