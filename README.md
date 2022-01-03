@@ -16,6 +16,7 @@ Made this just because I had some free time and was fucking around with 11 build
 
 ### Before running
 Please run "winget list" in CMD and accept the terms. Otherwise nothing will be deleted.
+Actually 0.95 may have fixed this problem by doing it automatically. Still try this if you can't get it to work!
 
 ### How to use (Simple)
 Download the latest script from well, the latest release and run it. Then just follow the on screen instructions.
