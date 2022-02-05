@@ -1,4 +1,4 @@
-## elevendebloater 0.91
+## elevendebloater 0.95
 
 Windows "debloater" specifically for Windows 11 (now with 10 support) that relies on the App Installer and "winget"
 Made this just because I had some free time and was fucking around with 11 build 21996.1
