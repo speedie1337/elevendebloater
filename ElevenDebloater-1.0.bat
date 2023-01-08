@@ -21,7 +21,6 @@ set testing_no_prompt_user=false &:: Make the debloater run without any if %test
 :: Change from false to true to whitelist these (ie. don't delete them)
 set whitelist_communicationapps=false &:: Whitelist microsoft.windowscommunicationsapps_8wekyb3d8bbwe [true/false]
 set whitelist_onedrive=false &:: Whitelist Microsoft.Onedrive [true/false]
-set whitelist_teams=false &:: Whitelist MicrosoftTeams_8wekyb3d8bbwe [true/false]
 set whitelist_video=false &:: Whitelist Microsoft.ZuneVideo_8wekyb3d8bbwe [true/false]
 set whitelist_music=false &:: Whitelist Microsoft.ZuneMusic_8wekyb3d8bbwe [true/false]
 set whitelist_5499=false &:: Whitelist Microsoft.549981C3F5F10_8wekyb3d8bbwe [true/false]
