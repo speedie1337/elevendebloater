@@ -25,7 +25,7 @@ Elevendebloater allows you to change some basic settings. Do this by editing the
 
 ### License information
 
-Copyright (C) 2022 speedie (speedie.gq)
+Copyright (C) 2021-2023 speedie (speedie.gq)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
